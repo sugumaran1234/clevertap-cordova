@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "574246319398",
+    "project_id": "lct-ios-android",
+    "storage_bucket": "lct-ios-android.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574246319398:android:30abed49d08f5055687de7",
+        "android_client_info": {
+          "package_name": "com.lhgldev.LegendCarTradingCustomer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsPRR1yopobVFalX6qjR7u5LNzGPMxahA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
